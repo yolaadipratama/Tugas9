@@ -14,7 +14,7 @@
 
 <ol>
 
-<h4><li>PHPLoy</li></h4>
+<h4><li>Cara Kerja PHPLoy</li></h4>
 <p align="justify">
 PHPloy merupakan sebuah tools FTP Client untuk deploy aplikasi ke server. Untuk menggunakan PHPloy ini pastikan project yang akan dikerjakan sudah menggunakan Git sebagai code collaboration. Konsep kerja PHPloy ini adalah menggunakan perubahan (upload/delete) file-file yang telah tercommit pada git server
 
@@ -25,7 +25,11 @@ Cara Kerja:
 - Keempat untuk melihat list yang di upload/dihapus : phploy-1
 <p>
 
-<ol>
+</ol>
+<br/>
+<br/>
+<h2>Cara Kerja SUPfile</h2>
+</center>
   
 <h4><li>SUPfile</li></h4>
 <p align="justify">
