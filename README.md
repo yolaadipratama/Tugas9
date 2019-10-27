@@ -24,7 +24,7 @@ Cara Kerja:
 - Ketiga setelah melakukan konfigurasi pada file phploy.ini, lakukan phploy
 - Keempat untuk melihat list yang di upload/dihapus : phploy-1
 <p>
-<h4><li>Untuk lebih lengkap nya bisa di cek di </li></h4>
+<h4><li>Link</li></h4>
 <p align="justify">
 https://github.com/banago/PHPloy
 
@@ -42,7 +42,7 @@ Cara Kerja :
 - Pertama : Instal terlebih dahulu dengan cara mendownload go get -u github.com/pressly/sup/cmd/sup
 - Kedua : Lalu ketikan sup pada terminal
 <p>
-<h4><li>Untuk lebih lengkap nya bisa di cek di </li></h4>
+<h4><li>Link</li></h4>
 <p align="justify">
 https://github.com/pressly/sup
 </ol>
