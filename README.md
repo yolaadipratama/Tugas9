@@ -28,10 +28,10 @@ Cara Kerja:
 </ol>
 <br/>
 <br/>
-<h2>Cara Kerja SUPfile</h2>
+<h2>SUPfile</h2>
 </center>
   
-<h4><li>SUPfile</li></h4>
+<h4><li> Cara Kerja SUPfile</li></h4>
 <p align="justify">
 SUPfile adalah sebuah alat deploy sederhana yang melakukan perintah pada beberapa host secara paralel. Berguna untuk membaca SUPfile, file konfigurasi YAML, yang mendifinisikan jaringan, perintah dan taerget
 
